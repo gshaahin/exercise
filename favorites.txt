@@ -1,3 +1,12 @@
+=======
+foods
+=======
 Watermelon
 Banana
 Strawberry
+=======
+Movies
+=======
+Interstellar
+Ready Player one
+jomanji
